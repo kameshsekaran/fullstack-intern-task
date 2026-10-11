@@ -68,7 +68,7 @@ git clone https://github.com/kameshsekaran/fullstack-intern-task.git
 cd fullstack-intern-task
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 ### 2. Configure and start the backend
 
