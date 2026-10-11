@@ -49,7 +49,7 @@ fullstack-intern-task/
 │   ├── server.js
 │   ├── database.js
 │   ├── package.json
-│   └── .env
+│   
 ├── .gitignore
 └── README.md
 ```
@@ -109,7 +109,7 @@ The SQLite database and sample templates are initialized automatically when the 
 Open another terminal:
 
 ```bash
-cd fullstack-intern-task/client
+cd client
 npm install
 npm run dev
 ```
